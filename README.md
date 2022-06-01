@@ -1,5 +1,5 @@
-Nume_Proiect (inca nu are nume):
-ma mai gandesc
+Nume_Proiect:
+Notitse
 ===
 
 
@@ -15,4 +15,4 @@ Descriere proiect:
 
 ---
 
-ma mai gandesc
+Aplicatie web PHP/SQL pentru notite
